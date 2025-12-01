@@ -90,19 +90,6 @@ else{
 digitalWrite(bombamanual,HIGH);
 analogWrite(alarma,LOW);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 if(digitalRead(botonauto) == 1){
       encendido= !encendido;}
       
